@@ -4,8 +4,8 @@
 
 ### Run these 2 commands on your terminal inside **gmail-app-backend** folder
 
-\$ `npm install`
-\$ `npm start`
+1. \$ `npm install`
+2. \$ `npm start`
 
 ### Files we will be working on
 
