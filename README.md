@@ -17,6 +17,6 @@
 
   - `fake-db`
 
-  ### App deployed to heroku
+#### App deployed to heroku
 
-  - to test it out open: `https://polar-reaches-49806.herokuapp.com/api?page=1&category=primary` on your browser
+- to test it out open: `https://polar-reaches-49806.herokuapp.com/api?page=1&category=primary` on your browser
