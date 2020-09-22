@@ -13,5 +13,10 @@
 
   - `routes/index.js`
 
-- data (fake database) will be located at:
-  - `db.js`
+- data (fake database) will be located at folder:
+
+  - `fake-db`
+
+  ### App deployed to heroku
+
+  - to test it out open: `https://polar-reaches-49806.herokuapp.com/api?page=1&category=primary` on your browser

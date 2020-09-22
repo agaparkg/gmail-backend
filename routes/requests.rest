@@ -1,3 +1,4 @@
+# Just to test locally
 
 # GET http://localhost:3000/api?page=1&category=promotions
 

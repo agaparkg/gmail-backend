@@ -2,7 +2,7 @@ var express = require('express');
 var router = express.Router();
 var { primary, social, promotions, allInbox } = require('../fake-db');
 
-// I KNOW CODE IS REPEATED. THATS A TASK FOR LATER TO OTHER ENGINEERS.
+// I KNOW CODE IS REPEATED AND NOT GREAT. THATS A TASK FOR LATER TO OTHER ENGINEERS.
 // front end engineers can look and see if there is a 'next' or 'previos'.
 // Based on that disable/enable the pagination buttons
 
