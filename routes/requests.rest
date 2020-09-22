@@ -1,0 +1,4 @@
+
+# GET http://localhost:3000/api?page=1&category=promotions
+
+# GET http://localhost:3000/api/tags?page=1&tags=spam

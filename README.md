@@ -15,4 +15,3 @@
 
 - data (fake database) will be located at:
   - `db.js`
-  - currently its empty because we need to come up with data itself first.
