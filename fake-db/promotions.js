@@ -16,12 +16,7 @@ var promotions = [
           },
         ],
         date: new Date(),
-      },
-      {
-        message: 'Here is the info about our start date',
-        attachments: [],
-        date: new Date(),
-      },
+      }
     ],
   },
   {

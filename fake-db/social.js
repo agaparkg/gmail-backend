@@ -17,11 +17,6 @@ var social = [
         ],
         date: new Date(),
       },
-      {
-        message: 'Here is the info about our start date',
-        attachments: [],
-        date: new Date(),
-      },
     ],
   },
   {
@@ -33,7 +28,7 @@ var social = [
     date: new Date(),
     messages: [
       {
-        message: 'Now you can use for free $$$',
+        message: 'Now you can use our services for free $$$!',
         attachments: [],
         date: new Date(),
       },

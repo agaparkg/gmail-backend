@@ -17,11 +17,6 @@ var primary = [
         ],
         date: new Date(),
       },
-      {
-        message: 'Here is the info about our start date',
-        attachments: [],
-        date: new Date(),
-      },
     ],
   },
   {
@@ -33,7 +28,7 @@ var primary = [
     date: new Date(),
     messages: [
       {
-        message: 'Now you can use for free $$$',
+        message: 'Now you can use our services for free $$$.',
         attachments: [],
         date: new Date(),
       },
@@ -48,7 +43,7 @@ var primary = [
     date: new Date(),
     messages: [
       {
-        message: 'Time to congratulate your friends on their birthday',
+        message: 'Time to congratulate your friends on their birthday!',
         attachments: [],
         date: new Date(),
       },
@@ -57,7 +52,7 @@ var primary = [
   {
     tags: { isStarred: true, isTrash: false, isSpam: false },
     senderName: 'Michael Dunn',
-    senderEmail: 'm@dunn.com',
+    senderEmail: 'michael@dunn.com',
     messageTitle: "Don't forget about our meeting today...",
     isRead: false,
     date: new Date(),
@@ -72,9 +67,9 @@ var primary = [
   },
   {
     tags: { isStarred: true, isTrash: false, isSpam: false },
-    senderName: 'Michael Dunn',
-    senderEmail: 'm@dunn.com',
-    messageTitle: "Don't forget about our meeting today...",
+    senderName: 'Michael Douglas',
+    senderEmail: 'douglas@dunn.com',
+    messageTitle: "Reminder! Don't forget about our meeting today...",
     isRead: false,
     date: new Date(),
     messages: [
@@ -89,7 +84,7 @@ var primary = [
   {
     tags: { isStarred: true, isTrash: false, isSpam: false },
     senderName: 'Michael Dunn',
-    senderEmail: 'm@dunn.com',
+    senderEmail: 'mike@dunn.com',
     messageTitle: "Don't forget about our meeting today...",
     isRead: false,
     date: new Date(),
