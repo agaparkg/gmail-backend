@@ -1,7 +1,5 @@
 ## Gmail Clone App backend
 
-> if you have any suggestions/corrections, please reach out me on slack to discuss.
-
 #### Run these 2 commands on your terminal inside **gmail-app-backend** folder
 
 1.  `npm install`
@@ -19,4 +17,12 @@
 
 #### App deployed to heroku
 
-- to test it out open: `https://polar-reaches-49806.herokuapp.com/api?page=1&category=primary` on your browser
+- To test it out open the following links on your browser:
+Emails:
+`https://gmail-backend-api.herokuapp.com/api?page=1&category=primary`
+`https://gmail-backend-api.herokuapp.com/api?page=1&category=promotions`
+`https://gmail-backend-api.herokuapp.com/api?page=1&category=social`
+Tags:
+`https://gmail-backend-api.herokuapp.com/api/tags?page=1&tags=starred`
+`https://gmail-backend-api.herokuapp.com/api/tags?page=1&tags=spam`
+`https://gmail-backend-api.herokuapp.com/api/tags?page=1&tags=trash`
